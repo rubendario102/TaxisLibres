@@ -24,18 +24,18 @@ Make Smart contracts between two agents.
 Clone from Gitub
 
 ```bash
-git clone https://github.com/Kinesso/ada-pipeline-custom-audience-processor.git
+git clone https://github.com/rubendario102/TaxisLibres.git
 ```
 
 ## Install requirements
 ```bash
-cd ada-pipeline-custom-audience-processor
+cd TadisLibres
 pip install -r requirements.txt
 ``` 
 
 ## Test, coverage and package
 ```bash
-cd ada-pipeline-custom-audience-processor
+cd TadisLibres
 doit
 ```
 

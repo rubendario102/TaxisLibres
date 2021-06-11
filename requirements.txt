@@ -1,0 +1,12 @@
+# Project dependencies
+boto3
+web3
+# Test dependencies
+pytest
+# Build dependencies
+doit
+doit-py>=0.4.0
+mock
+moto
+# Coverage
+coverage>=4.0
